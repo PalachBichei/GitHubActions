@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-22T01:26:42" hostname="DESKTOP-73R1I6D" time="2.718">
+  <properties/>
+  <testcase name="del()" classname="MainTest" time="2.693"/>
+  <testcase name="sum()" classname="MainTest" time="0.002"/>
+  <testcase name="minus()" classname="MainTest" time="0.003"/>
+  <testcase name="multiplu()" classname="MainTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
